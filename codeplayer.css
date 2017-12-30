@@ -5,6 +5,21 @@
    padding: 0;
    margin: 0;
  }
+ textarea {
+   resize: none;
+   border-top: none;
+   border-color: grey;
+ }
+
+ iframe {
+   border: none;
+ }
+
+.panel {
+  float: left;
+  width: 50%;
+}
+
  #logo {
    float: left;
    font-weight: bold;
