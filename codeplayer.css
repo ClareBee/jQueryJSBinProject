@@ -65,3 +65,7 @@
 .highlightedButton {
   background-color: grey;
 }
+
+.hidden {
+  display: none;
+}
